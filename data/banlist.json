@@ -1,0 +1,543 @@
+[
+    {
+        "name": ".immortal.",
+        "reason": "Player has tried to trigger 'js:removejailtime' event",
+        "identifiers": [
+            "steam:110000141cbe8e9",
+            "license:49bab4b64f597775a605b30a9883094e3cd1c5ae",
+            "ip:109.163.233.83"
+        ]
+    },
+    {
+        "name": "aimbot.exe",
+        "reason": "Player had a blacklisted weapon: WEAPON_APPISTOL",
+        "identifiers": [
+            "steam:110000116f6fa1b",
+            "license:f7cbcd6a9fa94f4df9ccbe84750e6537a94e5cc1",
+            "discord:361433527423860747",
+            "ip:46.246.222.199"
+        ]
+    },
+    {
+        "name": "SPADYisHERE",
+        "reason": "Player had a blacklisted weapon: WEAPON_APPISTOL",
+        "identifiers": [
+            "steam:11000013bf60660",
+            "license:b1899c9e9c7fb64256380330c1545eb654be7dc7",
+            "live:985154558935084",
+            "discord:521743602293145600",
+            "ip:94.67.244.60"
+        ]
+    },
+    {
+        "name": "0xdeadtri",
+        "reason": "Player has tried to trigger 'AdminMenu:giveDirtyMoney' event",
+        "identifiers": [
+            "steam:110000142af0a51",
+            "license:1b2d6d57839437ffe86f974effa4ef4ba07616cd",
+            "ip:2.85.172.117"
+        ]
+    },
+    {
+        "name": "FabioAlbaniaGANG",
+        "reason": "Player had a blacklisted weapon: WEAPON_PUMPSHOTGUN_MK2",
+        "identifiers": [
+            "steam:1100001137d413f",
+            "license:e0004efb0ae9d9e6ccb6a47da7f00d75744cac52",
+            "discord:248562287877554176",
+            "ip:188.4.144.104"
+        ]
+    },
+    {
+        "name": "VladimirAndr",
+        "reason": "Player had a blacklisted weapon: WEAPON_DBSHOTGUN",
+        "identifiers": [
+            "steam:11000011bd775a5",
+            "license:e6482d9c0dda2d4e0e9dc8fdf6646a5284dcab56",
+            "discord:549910521592283137",
+            "ip:62.74.245.42"
+        ]
+    },
+    {
+        "name": "Zannax",
+        "reason": "Player has tried to trigger 'js:removejailtime' event",
+        "identifiers": [
+            "steam:1100001401f8e71",
+            "license:0a24977442eef76ad57e0d318c5fef06575e6076",
+            "xbl:2535428631948673",
+            "live:985153972288919",
+            "discord:600822522488946688",
+            "ip:85.72.159.144"
+        ]
+    },
+    {
+        "name": "Zannax",
+        "reason": "Player has tried to trigger 'js:removejailtime' event, new identifier(s) found - original ban Zannax",
+        "identifiers": [
+            "ip:83.235.108.160"
+        ]
+    },
+    {
+        "name": "1Tap Juice",
+        "reason": "Player had a blacklisted weapon: WEAPON_HEAVYPISTOL",
+        "identifiers": [
+            "steam:11000010c9b8f7e",
+            "license:5e1089583a0238819bd5f635af5762a4dc8ed358",
+            "live:844425694822752",
+            "discord:460555194955071516",
+            "ip:46.12.236.27"
+        ]
+    },
+    {
+        "name": "Speed",
+        "reason": "Player has tried to trigger 'lscustoms:payGarage' event",
+        "identifiers": [
+            "steam:110000136cafd36",
+            "license:26163428f258bf7eddd64677963528d80660150f",
+            "ip:94.71.19.194"
+        ]
+    },
+    {
+        "name": "Pangiwths",
+        "reason": "Player had a blacklisted weapon: WEAPON_BOTTLE",
+        "identifiers": [
+            "steam:11000013dbb0000",
+            "license:a757949c00f3eb8b9482a779cb50e561cc92fdf8",
+            "xbl:2535458870157341",
+            "live:914801714674674",
+            "discord:545261362834571275",
+            "ip:185.128.27.243"
+        ]
+    },
+    {
+        "name": "magackpr",
+        "reason": "Player has tried to trigger 'NB:recruterplayer' event",
+        "identifiers": [
+            "steam:110000140591ac7",
+            "license:705cbdc163bbfee66e21203819325da29f43c103",
+            "discord:593788114078662657",
+            "ip:85.75.11.252"
+        ]
+    },
+    {
+        "name": "*HGT*® GiannisQQ GR",
+        "reason": "Godmode detected on player, new identifier(s) found - original ban 2PAC",
+        "identifiers": [
+            "steam:11000010db4156d"
+        ]
+    },
+    {
+        "name": "CHRISBOII",
+        "reason": "Player has tried to trigger 'vrp_slotmachine:server:2' event",
+        "identifiers": [
+            "steam:11000013d17e7f8",
+            "license:e07d407475555e27b5ad6f93bfa10dd84ea5d8a9",
+            "xbl:2535418998788377",
+            "live:844425140577294",
+            "discord:525386008888475648",
+            "ip:85.72.171.200"
+        ]
+    },
+    {
+        "name": "Romanos",
+        "reason": "Player had a blacklisted weapon: WEAPON_HEAVYPISTOL, new identifier(s) found - original ban 1Tap Juice",
+        "identifiers": [
+            "ip:188.73.233.197"
+        ]
+    },
+    {
+        "name": "stef clAped you",
+        "reason": "Player had a blacklisted weapon: WEAPON_HEAVYSHOTGUN",
+        "identifiers": [
+            "steam:110000140e02096",
+            "license:470bbb3debbc21c9f968d97f68f4122e0a0e08f9",
+            "live:844424964933708",
+            "discord:584713983022333955",
+            "ip:94.68.207.1"
+        ]
+    },
+    {
+        "name": "ezell",
+        "reason": "Player has tried to trigger 'vrp_slotmachine:server:2' event",
+        "identifiers": [
+            "steam:11000013cc3222f",
+            "license:8a7af0aa58653b6ffa02e397cf32ea48039a8603",
+            "discord:694064771905093663",
+            "ip:109.105.237.206"
+        ]
+    },
+    {
+        "name": "NecroAngeL",
+        "reason": "Player has tried to trigger 'vrp_slotmachine:server:2' event",
+        "identifiers": [
+            "steam:11000011488a442",
+            "license:6a2df7f25a6342f1e2811e72dbb0dc12f6d1ff6c",
+            "discord:687757107918929928",
+            "ip:94.68.220.162"
+        ]
+    },
+    {
+        "name": "No Face No Case",
+        "reason": "Player has tried to trigger 'js:jailuser' event",
+        "identifiers": [
+            "steam:110000112aa7f4b",
+            "license:ccd7d82bf582c001a5a16896421843b7ac34ee86",
+            "live:844425149295607",
+            "discord:309709554998968321",
+            "ip:85.75.104.192"
+        ]
+    },
+    {
+        "name": "OMORFANTRAS",
+        "reason": "Player has tried to trigger 'vrp_slotmachine:server:2' event",
+        "identifiers": [
+            "steam:11000014182408e",
+            "license:f8278a0150aaf504ea7466df68620de66d340be9",
+            "discord:546030845539123211",
+            "ip:2.87.150.238"
+        ]
+    },
+    {
+        "name": "2PAC",
+        "reason": "Godmode detected on player, new identifier(s) found - original ban 2PAC",
+        "identifiers": [
+            "license:8cd42906570b9e61b4763ba051cf3baad2a28edd",
+            "ip:79.107.164.121"
+        ]
+    },
+    {
+        "name": "Vin diesel",
+        "reason": "Player has tried to trigger 'adminmenu:allowall' event",
+        "identifiers": [
+            "steam:11000011414ddc4",
+            "license:62a80d2ca604bf28bcea64d29eb1248539af295f",
+            "live:1055518859757498",
+            "discord:427538943278448654",
+            "ip:185.51.134.195"
+        ]
+    },
+    {
+        "name": "SPADYisHERE",
+        "reason": "Player had a blacklisted weapon: WEAPON_APPISTOL, new identifier(s) found - original ban SPADYisHERE",
+        "identifiers": [
+            "license:2bc21006a174b5089073584fc131f972acb6469c",
+            "ip:94.67.242.234"
+        ]
+    },
+    {
+        "name": "x2Poison",
+        "reason": "Player had a blacklisted weapon: WEAPON_RPG",
+        "identifiers": [
+            "steam:1100001362a4253",
+            "license:b2b5e32f146d439405cd11d2aa322f3d9e2adfa8",
+            "live:1829582894289364",
+            "discord:697159579426881536",
+            "ip:94.65.240.34"
+        ]
+    },
+    {
+        "name": "✬ George",
+        "reason": "Godmode detected on player, new identifier(s) found - original ban Itachi Uchiha",
+        "identifiers": [
+            "steam:11000013da56c6f"
+        ]
+    },
+    {
+        "name": "xijiya7807",
+        "reason": "Player had a blacklisted weapon: WEAPON_GRENADELAUNCHER, new identifier(s) found - original ban Peozeoulas",
+        "identifiers": [
+            "steam:110000143eca172"
+        ]
+    },
+    {
+        "name": "xijiya7807",
+        "reason": "Player had a blacklisted weapon: WEAPON_GRENADELAUNCHER, new identifier(s) found - original ban Peozeoulas",
+        "identifiers": [
+            "discord:767822726060441601"
+        ]
+    },
+    {
+        "name": "*HGT*® GiannisQQ GR",
+        "reason": "Godmode detected on player, new identifier(s) found - original ban 2PAC, new identifier(s) found - original ban *HGT*® GiannisQQ GR",
+        "identifiers": [
+            "discord:729441152310313042",
+            "ip:84.254.8.185"
+        ]
+    },
+    {
+        "name": "✬ George",
+        "reason": "Godmode detected on player, new identifier(s) found - original ban Itachi Uchiha, new identifier(s) found - original ban ✬ George",
+        "identifiers": [
+            "license:900e6644e2ab11ca7c4c731bd3c26caad5dfd268",
+            "live:985154117453838",
+            "discord:642628691041714178",
+            "ip:176.92.159.145"
+        ]
+    },
+    {
+        "name": "Itachi Uchiha",
+        "reason": "Godmode detected on player, new identifier(s) found - original ban Itachi Uchiha, new identifier(s) found - original ban ✬ George, new identifier(s) found - original ban ✬ George",
+        "identifiers": [
+            "steam:11000013dc1c3e8"
+        ]
+    },
+    {
+        "name": "Meskiukas",
+        "reason": "Player has tried to trigger 'adminmenu:allowall' event",
+        "identifiers": [
+            "steam:1100001422def04",
+            "license:4968bce077767d00371b99e507f716b39d9f315a",
+            "live:844425722105616",
+            "discord:727165700795531306",
+            "ip:213.159.60.187"
+        ]
+    },
+    {
+        "name": "AL PACINO",
+        "reason": "Godmode detected on player, new identifier(s) found - original ban 2PAC, new identifier(s) found - original ban *HGT*® GiannisQQ GR, new identifier(s) found - original ban *HGT*® GiannisQQ GR",
+        "identifiers": [
+            "steam:110000143f7a45b",
+            "license:f8488e427d7fc1f97b6d28ccdddf1750f6e08d3e",
+            "ip:37.46.114.115"
+        ]
+    },
+    {
+        "name": "MikrosTrelas",
+        "reason": "Player had a blacklisted weapon: WEAPON_FLARE",
+        "identifiers": [
+            "steam:11000013c132f01",
+            "license:7eb77da2c4d373533d3e5eab74dfb0fe8fdd7d66",
+            "live:914798060952991",
+            "discord:564369818921336832",
+            "ip:85.74.48.50"
+        ]
+    },
+    {
+        "name": "arxhgos",
+        "reason": "Player has tried to trigger 'js:jailuser' event",
+        "identifiers": [
+            "steam:110000134c97c2c",
+            "license:4378ab3a2677db3acd7f6e9051617dd37ea01196",
+            "xbl:2535416731404070",
+            "live:985154009564604",
+            "discord:602065230314602496",
+            "ip:79.167.3.165"
+        ]
+    },
+    {
+        "name": "Zexakos",
+        "reason": "Player had a blacklisted weapon: WEAPON_POOLCUE",
+        "identifiers": [
+            "steam:110000141fc00ac",
+            "license:f32c80013ddda6b24273507c480d12586b296d26",
+            "discord:708406250106388521",
+            "ip:2.87.11.178"
+        ]
+    },
+    {
+        "name": "Escobar",
+        "reason": "Player had a blacklisted weapon: WEAPON_COMBATPDW",
+        "identifiers": [
+            "steam:11000013cd917f8",
+            "license:4af2799e47416cd11fc62c973f5fd4945939730c",
+            "discord:622344360733835275",
+            "ip:2.86.223.209"
+        ]
+    },
+    {
+        "name": "pateras2os",
+        "reason": "Player has tried to trigger 'NB:recruterplayer' event, new identifier(s) found - original ban magackpr",
+        "identifiers": [
+            "steam:11000014063d88c",
+            "ip:94.66.40.170"
+        ]
+    },
+    {
+        "name": "Smurf",
+        "reason": "Player has tried to trigger 'whoapd:revive' event",
+        "identifiers": [
+            "steam:11000013f99778c",
+            "license:b76c1f3aaddf5b5e9adb769e88d6554b55cbae9e",
+            "ip:2.85.151.254"
+        ]
+    },
+    {
+        "name": "MPATZONI_TO_KABLONEI",
+        "reason": "Player has tried to trigger 'whoapd:revive' event, new identifier(s) found - original ban Smurf",
+        "identifiers": [
+            "steam:1100001440c70b3"
+        ]
+    },
+    {
+        "name": "KristiAcab",
+        "reason": "Player has tried to trigger 'hentailover:xdlol' event",
+        "identifiers": [
+            "steam:110000142d1f626",
+            "license:956c08e4367a8cf9baf4c7af9def5574a7992654",
+            "live:1055518928464098",
+            "discord:401404142913978368",
+            "ip:89.242.86.159"
+        ]
+    },
+    {
+        "name": "Itachi Uchiha",
+        "reason": "Godmode detected on player, new identifier(s) found - original ban Itachi Uchiha, new identifier(s) found - original ban ✬ George, new identifier(s) found - original ban ✬ George",
+        "identifiers": [
+            "ip:79.166.60.190"
+        ]
+    },
+    {
+        "name": "Ice Cube",
+        "reason": "Godmode detected on player",
+        "identifiers": [
+            "steam:110000114ace25d",
+            "license:5048d95c7d627424f42f547b4217eb059944dd67",
+            "discord:356219370038493184",
+            "ip:94.67.64.25"
+        ]
+    },
+    {
+        "name": "DarkAlex",
+        "reason": "Player had a blacklisted weapon: WEAPON_POOLCUE",
+        "identifiers": [
+            "steam:1100001413fa99b",
+            "license:efe2e9fcc5767d678bfd82447f62cef40f7eebe1",
+            "ip:85.75.119.188"
+        ]
+    },
+    {
+        "name": "arxhgos",
+        "reason": "Player has tried to trigger 'js:jailuser' event, new identifier(s) found - original ban arxhgos",
+        "identifiers": [
+            "license:c8b43f4ff1e6b9879b9db51d765c72b5e94ab633",
+            "ip:141.237.116.223"
+        ]
+    },
+    {
+        "name": "VR46",
+        "reason": "Player has tried to trigger 'adminmenu:allowall' event",
+        "identifiers": [
+            "steam:110000136baf334",
+            "license:967962abfd9b39382fe8bc6f4cfa94764378de6b",
+            "discord:759160612483498005",
+            "ip:91.132.141.174"
+        ]
+    },
+    {
+        "name": "No Face No Case",
+        "reason": "Player has tried to trigger 'js:jailuser' event, new identifier(s) found - original ban No Face No Case",
+        "identifiers": [
+            "ip:94.70.41.191"
+        ]
+    },
+    {
+        "name": "acromatic",
+        "reason": "Player had a blacklisted weapon: WEAPON_SMOKEGRENADE",
+        "identifiers": [
+            "steam:11000013e1d84b8",
+            "license:1908945adbf82bc1eb122ebffe597cac4026099f",
+            "discord:567437744012263428",
+            "ip:188.73.232.129"
+        ]
+    },
+    {
+        "name": "GiwrgosOG",
+        "reason": "Player had a blacklisted weapon: WEAPON_DBSHOTGUN",
+        "identifiers": [
+            "steam:110000140ca73ed",
+            "license:3c4bdc4132fbc736059d3729a4bbec044bc12a03",
+            "live:914798630319532",
+            "discord:683685349075058790",
+            "ip:46.176.189.175"
+        ]
+    },
+    {
+        "name": "Statharos",
+        "reason": "Player had a blacklisted weapon: WEAPON_POOLCUE",
+        "identifiers": [
+            "steam:110000135f8e40e",
+            "license:bbddef12725903a5d0d6ad38927e915b09d89ba8",
+            "discord:659124910110539778",
+            "ip:2.85.86.25"
+        ]
+    },
+    {
+        "name": "giannhsbomber",
+        "reason": "Player had a blacklisted weapon: WEAPON_BOTTLE",
+        "identifiers": [
+            "steam:110000143776af4",
+            "license:8bb7ba8677f9ac5608023aa62b751106f4350830",
+            "discord:755360005070258176",
+            "ip:2.85.22.236"
+        ]
+    },
+    {
+        "name": "Koufodinas",
+        "reason": "Player had a blacklisted weapon: WEAPON_BULLPUPRIFLE",
+        "identifiers": [
+            "steam:110000140846e96",
+            "license:5610386ec3420d9489768556d4869196b02628b6",
+            "live:914798362584479",
+            "discord:683396637728571493",
+            "ip:79.130.255.213"
+        ]
+    },
+    {
+        "name": "toxicman",
+        "reason": "Player had a blacklisted weapon: WEAPON_BULLPUPRIFLE",
+        "identifiers": [
+            "steam:110000143368b29",
+            "license:b9a6769a89b59ed8be6f74bcde0847374673388d",
+            "discord:751005842106482728",
+            "ip:94.65.34.238"
+        ]
+    },
+    {
+        "name": "Love KG",
+        "reason": "Player had a blacklisted weapon: WEAPON_HOMINGLAUNCHER",
+        "identifiers": [
+            "steam:110000142b4996f",
+            "license:e4c540bf5b6b9baab28a1cd79cab6de1e35b4605",
+            "discord:523599442792939549",
+            "ip:94.66.139.115"
+        ]
+    },
+    {
+        "name": "Love KG",
+        "reason": "Player had a blacklisted weapon: WEAPON_HOMINGLAUNCHER, new identifier(s) found - original ban Love KG",
+        "identifiers": [
+            "ip:94.66.139.147"
+        ]
+    },
+    {
+        "name": "fortnitealex5634",
+        "reason": "Player has tried to trigger 'js:jailuser' event, new identifier(s) found - original ban arxhgos",
+        "identifiers": [
+            "steam:1100001440996fe",
+            "license:a1201fb46f06d725e1175c4c527596fa7622de2e",
+            "ip:84.17.45.158"
+        ]
+    },
+    {
+        "reason": "Player had a blacklisted weapon: WEAPON_COMBATPDW",
+        "name": "PATER KLEOMENHS",
+        "identifiers": [
+            "steam:1100001173e17a1",
+            "license:d46c64fe9111597d40306761b82691b966cd3230",
+            "discord:730372101642387456",
+            "ip:109.242.26.201"
+        ]
+    },
+    {
+        "reason": "Player had a blacklisted weapon: WEAPON_COMBATPDW",
+        "name": "stavrakosstaff",
+        "identifiers": [
+            "steam:1100001442daf99",
+            "license:7aea16bc37d7a910c0f9a449eab449db09f03142",
+            "xbl:2535469916842941",
+            "live:844425137004187",
+            "discord:331864796125462530",
+            "ip:79.167.26.228"
+        ]
+    }
+]
